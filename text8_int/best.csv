@@ -1,0 +1,2 @@
+context_length,alpha,beta,adapt,pretrain,bpc,time_microsec
+20,49,77,1,1,-11.0412,199388105
